@@ -1,0 +1,101 @@
+#,Name,Classic,Rapid,Blitz,Age
+1,"Carlsen, Magnus",2838.4,2825.0,2887.0,32
+2,"Caruana, Fabiano",2782.6,2767.4,2813.0,31
+3,"Nakamura, Hikaru",2782.6,2744.8,2874.0,35
+4,"Ding, Liren",2780.0,2830.0,2787 i,30
+5,"Firouzja, Alireza",2777.0,2742.0,2896.0,20
+6,"Nepomniachtchi, Ian",2774.8,2763.2,2785.0,33
+7,"So, Wesley",2760.6,2783.2,2765.0,29
+8,"Giri, Anish",2759.6,2696.2,2751.6,29
+9,Gukesh D,2758.6,2629.0,2659.0,17
+10,"Anand, Viswanathan",2754.0,2751.0,2709.0,53
+11,"Rapport, Richard",2752.0,2752.0,2748.0,27
+12,"Karjakin, Sergey",2750.0,2729.0,2647 i,33
+13,"Dominguez Perez, Leinier",2746.8,2705.0,2654.0,39
+14,"Radjabov, Teimour",2745.0,2679.8,2707.0,36
+15,"Aronian, Levon",2742.0,2763.0,2750.0,40
+16,"Mamedyarov, Shakhriyar",2737.6,2711.0,2722.0,38
+17,"Le, Quang Liem",2733.2,2652.8,2665.0,32
+18,"Grischuk, Alexander",2731.8,2710.8,2686.6,39
+19,"Duda, Jan-Krzysztof",2730.0,2762.0,2751.0,25
+20,"Vachier-Lagrave, Maxime",2727.4,2760.0,2722.0,32
+21,"Topalov, Veselin",2727.0,2632.0,2657 i,48
+22,"Wei, Yi",2725.6,2733.8,2661.0,24
+23,"Yu, Yangyi",2719.8,2699.2,2745.0,29
+24,"Vitiugov, Nikita",2718.6,2617 i,2673 i,36
+25,"Vidit, Santosh Gujrathi",2718.0,2670.8,2624.5,28
+26,"Abdusattorov, Nodirbek",2716.2,2724.0,2708.0,18
+27,Praggnanandhaa R,2714.6,2645.0,2623.0,17
+28,"Keymer, Vincent",2713.5,2636.0,2645.0,18
+29,"Vallejo Pons, Francisco",2712.2,2651.2,2589.0,40
+30,"Harikrishna, Pentala",2711.0,2630.0,2634.0,37
+31,"Dubov, Daniil",2709.6,2723.0,2778.0,27
+32,"Maghsoodloo, Parham",2707.0,2683.0,2660.0,22
+33,"Sjugirov, Sanan",2705.0,2571.0,2569.0,30
+34,Erigaisi Arjun,2704.8,2679.2,2737.0,19
+35,"Deac, Bogdan-Daniel",2702.4,2612.6,2641.0,21
+36,"Robson, Ray",2701.4,2596.0,2665.0,28
+37,"Wang, Hao",2700.0,2714.0,2624.0,34
+38,"Van Foreest, Jorden",2699.2,2656.2,2664.0,24
+39,"Artemiev, Vladislav",2698.0,2726.0,2799.0,25
+40,"Sevian, Samuel",2698.0,2581.0,2695.0,22
+41,"Shankland, Sam",2697.8,2597.0,2668.0,31
+42,"Eljanov, Pavel",2695.0,2641.0,2598.0,40
+43,"Tomashevsky, Evgeny",2694.0,2642.0,2663.0,36
+44,"Xiong, Jeffery",2693.0,2727.0,2726.0,22
+45,"Sargissian, Gabriel",2692.0,2612.0,2579.0,39
+46,Nihal Sarin,2691.8,2674.4,2689.0,19
+47,"Svidler, Peter",2691.0,2739.8,2689.0,47
+48,"Bu, Xiangzhi",2690.0,2611.0,2760 i,37
+49,"Sarana, Alexey",2689.2,2649.0,2707.0,23
+50,"Navara, David",2687.6,2702.8,2680.0,38
+51,"Anton Guijarro, David",2687.6,2625.0,2606.0,28
+52,"Tabatabaei, M. Amin",2685.5,2577.0,2586.0,22
+53,"Martirosyan, Haik M.",2683.0,2591.0,2770.0,23
+54,"Esipenko, Andrey",2681.6,2684.4,2615.0,21
+55,"Amin, Bassem",2681.0,2601.2,2636.0,34
+56,"Grandelius, Nils",2681.0,2640.2,2573.0,30
+57,"Oparin, Grigoriy",2681.0,2657.0,2647.0,26
+58,"Donchenko, Alexander",2678.8,2568.0,2565.0,25
+59,"Shevchenko, Kirill",2677.0,2613.0,2603.0,20
+60,"Matlakov, Maxim",2677.0,2636.0,2666.0,32
+61,"Shirov, Alexei",2676.3,2585.0,2659.0,51
+62,"Howell, David W L",2675.8,2602 i,2567 i,32
+63,"Alekseenko, Kirill",2675.0,2639.0,2683 i,26
+64,"Kovalenko, Igor",2674.0,2608.0,2574 i,34
+65,"Wojtaszek, Radoslaw",2673.6,2649.6,2604.0,36
+66,"Kasimdzhanov, Rustam",2673.0,2648.0,2586.0,43
+67,"Ivanchuk, Vasyl",2672.2,2677.6,2678.0,54
+68,"Fedoseev, Vladimir",2670.2,2729.0,2719.0,28
+69,"Bluebaum, Matthias",2669.8,2605.4,2620.7,26
+70,"Sindarov, Javokhir",2666.4,2606.8,2585.0,17
+71,"Leko, Peter",2666.0,2710 i,2738 i,43
+72,"Moussard, Jules",2665.1,2610.6,2637.0,28
+73,"Bacrot, Etienne",2663.8,2682.4,2640.0,40
+74,"Adams, Michael",2661.9,2647.0,2704.0,51
+75,"Niemann, Hans Moke",2660.0,2577.0,2616.0,20
+76,"Korobov, Anton",2659.4,2619.2,2649.0,38
+77,"Volokitin, Andrei",2659.2,2615.4,2545 i,37
+78,"Santos Latasa, Jaime",2659.0,2656.2,2604.0,27
+79,"Wang, Yue",2659.0,2710 i,2666 i,36
+80,Narayanan.S.L,2658.9,2586.0,2564.0,25
+81,"Inarkiev, Ernesto",2658.0,2684.0,2544.0,37
+82,"Salem, A.R. Saleh",2657.9,2672.4,2668.0,30
+83,"Kryvoruchko, Yuriy",2656.0,2697 i,2595 i,36
+84,"Gelfand, Boris",2654.6,2619.0,2604.0,55
+85,"Cheparinov, Ivan",2653.7,2646.0,2613.0,36
+86,"Guseinov, Gadir",2653.3,2628.8,2573.0,37
+87,"Abasov, Nijat",2653.0,2549.8,2561.4,28
+88,"Fressinet, Laurent",2652.9,2654.4,2635.0,41
+89,"Predke, Alexandr",2652.1,2585.6,2594.0,29
+90,"Li, Chao b",2652.0,2631.0,2693 i,34
+91,"Ma, Qun",2651.0,2577.0,2602 i,31
+92,"Naiditsch, Arkadij",2651.0,2566.0,2581.0,37
+93,"Ni, Hua",2651.0,2626.0,2579 i,40
+94,"Ponomariov, Ruslan",2650.6,2645.4,2613.4,39
+95,"Melkumyan, Hrant",2650.0,2686 i,2604 i,34
+96,"Najer, Evgeniy",2648.0,2579.0,2545.0,46
+97,"Saric, Ivan",2647.5,2631.0,2586.0,32
+98,"Malakhov, Vladimir",2646.0,2666.0,2652.0,42
+99,"Liang, Awonder",2645.6,2518.4,2538.0,20
+100,"Aravindh, Chithambaram VR.",2645.0,2553.0,2596.0,23
